@@ -1,0 +1,399 @@
+[
+    {
+      "id": 1,
+      "titulo": "Producto 1",
+      "descripcion": "Descripción del producto 1",
+      "precio": 10.99,
+      "categoria": "Electrónica",
+      "url_img": "https://ejemplo.com/imagen1.jpg",
+      "tienda": "sorpresas"
+    },
+    {
+      "id": 2,
+      "titulo": "Producto 2",
+      "descripcion": "Descripción del producto 2",
+      "precio": 15.49,
+      "categoria": "Hogar",
+      "url_img": "https://ejemplo.com/imagen2.jpg",
+      "tienda": "mascotas"
+    },
+    {
+      "id": 3,
+      "titulo": "Producto 3",
+      "descripcion": "Descripción del producto 3",
+      "precio": 20.00,
+      "categoria": "Ropa",
+      "url_img": "https://ejemplo.com/imagen3.jpg",
+      "tienda": "sorpresas"
+    },
+    {
+      "id": 4,
+      "titulo": "Producto 4",
+      "descripcion": "Descripción del producto 4",
+      "precio": 8.99,
+      "categoria": "Electrónica",
+      "url_img": "https://ejemplo.com/imagen4.jpg",
+      "tienda": "mascotas"
+    },
+    {
+      "id": 5,
+      "titulo": "Producto 5",
+      "descripcion": "Descripción del producto 5",
+      "precio": 12.50,
+      "categoria": "Hogar",
+      "url_img": "https://ejemplo.com/imagen5.jpg",
+      "tienda": "sorpresas"
+    },
+    {
+      "id": 6,
+      "titulo": "Producto 6",
+      "descripcion": "Descripción del producto 6",
+      "precio": 18.75,
+      "categoria": "Ropa",
+      "url_img": "https://ejemplo.com/imagen6.jpg",
+      "tienda": "mascotas"
+    },
+    {
+      "id": 7,
+      "titulo": "Producto 7",
+      "descripcion": "Descripción del producto 7",
+      "precio": 14.99,
+      "categoria": "Electrónica",
+      "url_img": "https://ejemplo.com/imagen7.jpg",
+      "tienda": "sorpresas"
+    },
+    {
+      "id": 8,
+      "titulo": "Producto 8",
+      "descripcion": "Descripción del producto 8",
+      "precio": 22.95,
+      "categoria": "Hogar",
+      "url_img": "https://ejemplo.com/imagen8.jpg",
+      "tienda": "mascotas"
+    },
+    {
+      "id": 9,
+      "titulo": "Producto 9",
+      "descripcion": "Descripción del producto 9",
+      "precio": 19.99,
+      "categoria": "Ropa",
+      "url_img": "https://ejemplo.com/imagen9.jpg",
+      "tienda": "sorpresas"
+    },
+    {
+      "id": 10,
+      "titulo": "Producto 10",
+      "descripcion": "Descripción del producto 10",
+      "precio": 7.50,
+      "categoria": "Electrónica",
+      "url_img": "https://ejemplo.com/imagen10.jpg",
+      "tienda": "mascotas"
+    },
+    {
+      "id": 11,
+      "titulo": "Producto 11",
+      "descripcion": "Descripción del producto 11",
+      "precio": 13.25,
+      "categoria": "Hogar",
+      "url_img": "https://ejemplo.com/imagen11.jpg",
+      "tienda": "sorpresas"
+    },
+    {
+      "id": 12,
+      "titulo": "Producto 12",
+      "descripcion": "Descripción del producto 12",
+      "precio": 24.99,
+      "categoria": "Ropa",
+      "url_img": "https://ejemplo.com/imagen12.jpg",
+      "tienda": "mascotas"
+    },
+    {
+      "id": 13,
+      "titulo": "Producto 13",
+      "descripcion": "Descripción del producto 13",
+      "precio": 9.99,
+      "categoria": "Electrónica",
+      "url_img": "https://ejemplo.com/imagen13.jpg",
+      "tienda": "sorpresas"
+    },
+    {
+      "id": 14,
+      "titulo": "Producto 14",
+      "descripcion": "Descripción del producto 14",
+      "precio": 16.50,
+      "categoria": "Hogar",
+      "url_img": "https://ejemplo.com/imagen14.jpg",
+      "tienda": "mascotas"
+    },
+    {
+      "id": 15,
+      "titulo": "Producto 15",
+      "descripcion": "Descripción del producto 15",
+      "precio": 28.75,
+      "categoria": "Ropa",
+      "url_img": "https://ejemplo.com/imagen15.jpg",
+      "tienda": "sorpresas"
+    },
+    {
+      "id": 16,
+      "titulo": "Producto 16",
+      "descripcion": "Descripción del producto 16",
+      "precio": 11.99,
+      "categoria": "Electrónica",
+      "url_img": "https://ejemplo.com/imagen16.jpg",
+      "tienda": "mascotas"
+    },
+    {
+      "id": 17,
+      "titulo": "Producto 17",
+      "descripcion": "Descripción del producto 17",
+      "precio": 17.95,
+      "categoria": "Hogar",
+      "url_img": "https://ejemplo.com/imagen17.jpg",
+      "tienda": "sorpresas"
+    },
+    {
+      "id": 18,
+      "titulo": "Producto 18",
+      "descripcion": "Descripción del producto 18",
+      "precio": 30.00,
+      "categoria": "Ropa",
+      "url_img": "https://ejemplo.com/imagen18.jpg",
+      "tienda": "mascotas"
+    },
+    {
+      "id": 19,
+      "titulo": "Producto 19",
+      "descripcion": "Descripción del producto 19",
+      "precio": 6.99,
+      "categoria": "Electrónica",
+      "url_img": "https://ejemplo.com/imagen19.jpg",
+      "tienda": "sorpresas"
+    },
+    {
+      "id": 20,
+      "titulo": "Producto 20",
+      "descripcion": "Descripción del producto 20",
+      "precio": 14.25,
+      "categoria": "Hogar",
+      "url_img": "https://ejemplo.com/imagen20.jpg",
+      "tienda": "mascotas"
+    },
+    {
+      "id": 21,
+      "titulo": "Producto 21",
+      "descripcion": "Descripción del producto 21",
+      "precio": 26.50,
+      "categoria": "Ropa",
+      "url_img": "https://ejemplo.com/imagen21.jpg",
+      "tienda": "sorpresas"
+    },
+    {
+      "id": 22,
+      "titulo": "Producto 22",
+      "descripcion": "Descripción del producto 22",
+      "precio": 9.99,
+      "categoria": "Electrónica",
+      "url_img": "https://ejemplo.com/imagen22.jpg",
+      "tienda": "mascotas"
+    },
+    {
+      "id": 23,
+      "titulo": "Producto 23",
+      "descripcion": "Descripción del producto 23",
+      "precio": 16.75,
+      "categoria": "Hogar",
+      "url_img": "https://ejemplo.com/imagen23.jpg",
+      "tienda": "sorpresas"
+    },
+    {
+      "id": 24,
+      "titulo": "Producto 24",
+      "descripcion": "Descripción del producto 24",
+      "precio": 35.99,
+      "categoria": "Ropa",
+      "url_img": "https://ejemplo.com/imagen24.jpg",
+      "tienda": "mascotas"
+    },
+    {
+      "id": 25,
+      "titulo": "Producto 25",
+      "descripcion": "Descripción del producto 25",
+      "precio": 12.49,
+      "categoria": "Electrónica",
+      "url_img": "https://ejemplo.com/imagen25.jpg",
+      "tienda": "sorpresas"
+    },
+    {
+      "id": 26,
+      "titulo": "Producto 26",
+      "descripcion": "Descripción del producto 26",
+      "precio": 19.95,
+      "categoria": "Hogar",
+      "url_img": "https://ejemplo.com/imagen26.jpg",
+      "tienda": "mascotas"
+    },
+    {
+      "id": 27,
+      "titulo": "Producto 27",
+      "descripcion": "Descripción del producto 27",
+      "precio": 40.00,
+      "categoria": "Ropa",
+      "url_img": "https://ejemplo.com/imagen27.jpg",
+      "tienda": "sorpresas"
+    },
+    {
+      "id": 28,
+      "titulo": "Producto 28",
+      "descripcion": "Descripción del producto 28",
+      "precio": 10.49,
+      "categoria": "Electrónica",
+      "url_img": "https://ejemplo.com/imagen28.jpg",
+      "tienda": "mascotas"
+    },
+    {
+      "id": 29,
+      "titulo": "Producto 29",
+      "descripcion": "Descripción del producto 29",
+      "precio": 18.25,
+      "categoria": "Hogar",
+      "url_img": "https://ejemplo.com/imagen29.jpg",
+      "tienda": "sorpresas"
+    },
+    {
+      "id": 30,
+      "titulo": "Producto 30",
+      "descripcion": "Descripción del producto 30",
+      "precio": 45.99,
+      "categoria": "Ropa",
+      "url_img": "https://ejemplo.com/imagen30.jpg",
+      "tienda": "mascotas"
+    },
+    {
+      "id": 31,
+      "titulo": "Producto 31",
+      "descripcion": "Descripción del producto 31",
+      "precio": 11.99,
+      "categoria": "Electrónica",
+      "url_img": "https://ejemplo.com/imagen31.jpg",
+      "tienda": "sorpresas"
+    },
+    {
+      "id": 32,
+      "titulo": "Producto 32",
+      "descripcion": "Descripción del producto 32",
+      "precio": 22.95,
+      "categoria": "Hogar",
+      "url_img": "https://ejemplo.com/imagen32.jpg",
+      "tienda": "mascotas"
+    },
+    {
+      "id": 33,
+      "titulo": "Producto 33",
+      "descripcion": "Descripción del producto 33",
+      "precio": 50.00,
+      "categoria": "Ropa",
+      "url_img": "https://ejemplo.com/imagen33.jpg",
+      "tienda": "sorpresas"
+    },
+    {
+      "id": 34,
+      "titulo": "Producto 34",
+      "descripcion": "Descripción del producto 34",
+      "precio": 14.99,
+      "categoria": "Electrónica",
+      "url_img": "https://ejemplo.com/imagen34.jpg",
+      "tienda": "mascotas"
+    },
+    {
+      "id": 35,
+      "titulo": "Producto 35",
+      "descripcion": "Descripción del producto 35",
+      "precio": 26.50,
+      "categoria": "Hogar",
+      "url_img": "https://ejemplo.com/imagen35.jpg",
+      "tienda": "sorpresas"
+    },
+    {
+      "id": 36,
+      "titulo": "Producto 36",
+      "descripcion": "Descripción del producto 36",
+      "precio": 60.00,
+      "categoria": "Ropa",
+      "url_img": "https://ejemplo.com/imagen36.jpg",
+      "tienda": "mascotas"
+    },
+    {
+      "id": 37,
+      "titulo": "Producto 37",
+      "descripcion": "Descripción del producto 37",
+      "precio": 17.99,
+      "categoria": "Electrónica",
+      "url_img": "https://ejemplo.com/imagen37.jpg",
+      "tienda": "sorpresas"
+    },
+    {
+      "id": 38,
+      "titulo": "Producto 38",
+      "descripcion": "Descripción del producto 38",
+      "precio": 30.95,
+      "categoria": "Hogar",
+      "url_img": "https://ejemplo.com/imagen38.jpg",
+      "tienda": "mascotas"
+    },
+    {
+      "id": 39,
+      "titulo": "Producto 39",
+      "descripcion": "Descripción del producto 39",
+      "precio": 70.00,
+      "categoria": "Ropa",
+      "url_img": "https://ejemplo.com/imagen39.jpg",
+      "tienda": "sorpresas"
+    },
+    {
+      "id": 40,
+      "titulo": "Producto 40",
+      "descripcion": "Descripción del producto 40",
+      "precio": 19.99,
+      "categoria": "Electrónica",
+      "url_img": "https://ejemplo.com/imagen40.jpg",
+      "tienda": "mascotas"
+    },
+    {
+      "id": 41,
+      "titulo": "Producto 41",
+      "descripcion": "Descripción del producto 41",
+      "precio": 35.50,
+      "categoria": "Hogar",
+      "url_img": "https://ejemplo.com/imagen41.jpg",
+      "tienda": "sorpresas"
+    },
+    {
+      "id": 42,
+      "titulo": "Producto 42",
+      "descripcion": "Descripción del producto 42",
+      "precio": 80.00,
+      "categoria": "Ropa",
+      "url_img": "https://ejemplo.com/imagen42.jpg",
+      "tienda": "mascotas"
+    },
+    {
+      "id": 43,
+      "titulo": "Producto 43",
+      "descripcion": "Descripción del producto 43",
+      "precio": 21.99,
+      "categoria": "Electrónica",
+      "url_img": "https://ejemplo.com/imagen43.jpg",
+      "tienda": "sorpresas"
+    },
+    {
+      "id": 44,
+      "titulo": "Producto 44",
+      "descripcion": "Descripción del producto 44",
+      "precio": 40.95,
+      "categoria": "Hogar",
+      "url_img": "https://ejemplo.com/imagen44.jpg",
+      "tienda": "sorpresas"
+    }
+]
+  
